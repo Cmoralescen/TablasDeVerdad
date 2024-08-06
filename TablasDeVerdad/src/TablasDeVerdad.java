@@ -268,7 +268,7 @@ public class TablasDeVerdad {
     }
 
     private static String showValue(boolean value) {
-        return value ? "T" : "F";
+        return value ? "V" : "F";
     }
     // #endregion
 
