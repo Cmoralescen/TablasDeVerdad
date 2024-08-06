@@ -135,7 +135,7 @@ public class TablasDeVerdad {
                         System.out.println("Opción no reconocida. Por favor, intente de nuevo.");
                 }
             }
-        } while (option != (numVariables == 2 ? 8 : 17));
+        } while (option != (numVariables == 2 ? 8 : 16));
 
         scanner.close();
     }
